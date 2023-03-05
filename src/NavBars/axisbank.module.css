@@ -1,0 +1,46 @@
+.main{
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-between;
+  height: 75px;
+  align-items: center;
+  background-color: rgb(132, 20, 20);
+  color: white;
+  padding-left:2px ;
+}
+.axislogo{
+  width: 100px;
+}
+.axislogo p{
+  width: 200px;
+  padding-left: 20px;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  
+}
+.logo ul{
+ display: flex;
+ list-style: none;
+}
+.logo ul li{
+  justify-content: space-evenly;
+  width: 80px;
+}
+.logo ul li a{
+  text-decoration: none;
+  color: white;
+}
+.menu{
+  padding-left: 180px;
+}
+.menu ul{
+display: flex;
+list-style: none;
+}
+.menu ul li{
+  justify-content: space-evenly;
+  width: 200px;
+}
