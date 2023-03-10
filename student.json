@@ -1,0 +1,135 @@
+[
+  {
+    "StudentName":"Amit",
+    "StudentEmail":"amit1234@gmail.com",
+    "Mobilenumber":"99037576651" ,
+    "place": "Uttarkannada" 
+  },
+  {
+    "StudentName":"Bandappa",
+    "StudentEmail":"bandu3978@gmail.com",
+    "Mobilenumber":"9902348122",
+    "place": "Vijaypur" 
+  },
+  {
+    "StudentName":"viki",
+    "StudentEmail":"viki2344@gmail.com",
+    "Mobilenumber":"98766866573" ,
+    "place": "Bihar" 
+  },
+  {
+    "StudentName":"Basavaraj",
+    "StudentEmail":"basu344@gmail.com",
+    "Mobilenumber":"9876687454" ,
+    "place": "Belagam" 
+  },
+  {
+    "StudentName":"Ramu",
+    "StudentEmail":"ramu8772344@gmail.com",
+    "Mobilenumber":"88766866575" ,
+    "place": "Bihar" 
+  },
+  {
+    "StudentName":"Raghu",
+    "StudentEmail":"raghu44@gmail.com",
+    "Mobilenumber":"54666866576" ,
+    "place": "Bnagalore" 
+  },
+  {
+    "StudentName":"Gangu",
+    "StudentEmail":"gangu664@gmail.com",
+    "Mobilenumber":"8849865787" ,
+    "place": "tumakur" 
+  },
+  {
+    "StudentName":"vinay",
+    "StudentEmail":"vinay344@gmail.com",
+    "Mobilenumber":"998766866578" ,
+    "place": "London" 
+  },
+  {
+    "StudentName":"Nagu",
+    "StudentEmail":"nagu467635@gmail.com",
+    "Mobilenumber":"974565866579" ,
+    "place": "USA" 
+  }
+  ,
+  {
+    "StudentName":"Manju",
+    "StudentEmail":"manju94564@gmail.com",
+    "Mobilenumber":"9987677775710" ,
+    "place": "UK" 
+  },
+  {
+    "StudentName":"Sanju",
+    "StudentEmail":"sanju44@gmail.com",
+    "Mobilenumber":"9985465711" ,
+    "place": "Bagalakot" 
+  },
+  {
+    "StudentName":"viny",
+    "StudentEmail":"viny344@gmail.com",
+    "Mobilenumber":"99533566512" ,
+    "place": "Kalaburgi" 
+  },
+  {
+    "StudentName":"Lalu",
+    "StudentEmail":"laly4@gmail.com",
+    "Mobilenumber":"99876999513" ,
+    "place": "Afrika" 
+  },
+  {
+    "StudentName":"manu",
+    "StudentEmail":"manu344@gmail.com",
+    "Mobilenumber":"998766866514" ,
+    "place": "Ballari" 
+  },
+  {
+    "StudentName":"Nagu",
+    "StudentEmail":"nagya4@gmail.com",
+    "Mobilenumber":"9987666515" ,
+    "place": "Sudarpur" 
+  },
+  {
+    "StudentName":"iranna",
+    "StudentEmail":"irana66344@gmail.com",
+    "Mobilenumber":"9987566516" ,
+    "place": "Dubai" 
+  },
+  {
+    "StudentName":"Shiva",
+    "StudentEmail":"shiva3348@gmail.com",
+    "Mobilenumber":"998733617" ,
+    "place": "Kailas" 
+  },
+  {
+    "StudentName":"Ganesh",
+    "StudentEmail":"gannu344@gmail.com",
+    "Mobilenumber":"9776866618" ,
+    "place": "Rameshwara" 
+  },
+  {
+    "StudentName":"suhas",
+    "StudentEmail":"suhas9752@gmail.com",
+    "Mobilenumber":"9998456519" ,
+    "place": "Mysore" 
+  },
+  {
+    "StudentName":"Ameer",
+    "StudentEmail":"ameer77556@gmail.com",
+    "Mobilenumber":"988876757520" ,
+    "place": "Umarani" 
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+]
